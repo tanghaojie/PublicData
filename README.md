@@ -1,6 +1,10 @@
 # Public Data Directory 公开数据目录
 
-1.SurveyingQualificationOfChinaMainland: 全国测绘资质单位名单
+## 1.SurveyingQualificationOfChinaMainland: 全国测绘资质单位名单
+#### 1.1 甲级 1326个
+#### 1.2 乙级 5081个
+#### 1.3 丙级 8790个
+
 
 ---
 数据不定期更新
